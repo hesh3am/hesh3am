@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hesham El-Sayed</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/hesham-mohamed-sayed-259a35130/ </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/hesham-mohamed-sayed-259a35130/ </h3>
 <p align="left">
 </p>
 
